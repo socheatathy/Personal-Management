@@ -1,0 +1,5 @@
+{
+  "name": "Approval Analytics System",
+  "description": "A system to manage and analyze personnel approval status with Excel import/export and a real-time analytics dashboard.",
+  "requestFramePermissions": []
+}
